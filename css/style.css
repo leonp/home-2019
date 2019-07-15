@@ -1,0 +1,27 @@
+@media (min-width: 48em) {
+    html {
+        font-size: 112.5%;
+    }
+}
+
+@media (min-width: 60em) {
+    html {
+        font-size: 118.75%;
+    }
+}
+
+.c-mono {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+c-sans {
+    font-family: "Fira Sans", "Public Sans", sans-serif;
+}
+
+.c-wrapper {
+  max-width: 60em;
+}
+
+.c-sticky {
+    position: sticky;
+}
